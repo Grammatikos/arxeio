@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "settings": {
+    "categoryMenuMaxTitleLines": 4,
+    "recentViewsThreshold": 2
+  },
+  "categories": [
+    {
+      "id": "special-posts",
+      "name": "Ειδικές δημοσιεύσεις",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "math",
+      "name": "Μαθηματικά",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "eoka",
+      "name": "Αγώνας ΕΟΚΑ",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "modern-mythology",
+      "name": "Σημερινή μυθολογία",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "antiquity-christianity",
+      "name": "Από την αρχαιότητα στον Χριστιανισμό",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "biblical-studies",
+      "name": "Βιβλικές σπουδές",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "xorkogyrazontas",
+      "name": "Χωρκογυρίζοντας",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "annan-plan",
+      "name": "Γιατί είπαμε Όχι στο Σχέδιο Ανάν",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "eu-acquis-bizonal",
+      "name": "Ευρ κεκτημένο και διζωνική",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "contents-dec-2021",
+      "name": "Περιεχόμενα Δεκ 2021",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "contact",
+      "name": "επικοινωνία",
+      "enabled": true,
+      "href": "/p/epikoinonia.html",
+      "children": [],
+      "posts": []
+    },
+    {
+      "id": "academy",
+      "name": "σελίδα στην Ακαδημία-εδυ",
+      "enabled": true,
+      "href": "/p/selida-stin-akadimia-edy.html",
+      "children": [],
+      "posts": []
+    }
+  ]
+}
