@@ -78,9 +78,21 @@
           "enabled": true
         },
         {
+          "id": "p-eo8agbs",
+          "title": "Οι βάσεις στον έλεγχο της Κύπρου",
+          "url": "https://keryneia.blogspot.com/2026/03/blog-post_23.html",
+          "enabled": true
+        },
+        {
           "id": "p-ks2ihi3",
-          "title": "Εξαιρετικό το κάλεσμα στη τουρκ΄λια για συνομιλίες",
+          "title": "Εξαιρετικό το κάλεσμα στη τουρκία για συνομιλίες",
           "url": "https://keryneia.blogspot.com/2025/11/blog-post_27.html",
+          "enabled": true
+        },
+        {
+          "id": "p-ptyednw",
+          "title": "Λόγοι για την ειρήνη",
+          "url": "https://keryneia.blogspot.com/2026/03/blog-post_80.html",
           "enabled": true
         }
       ]
@@ -257,7 +269,14 @@
       "enabled": true,
       "href": "/p/selida-stin-akadimia-edy.html",
       "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-hhmv0sn",
+          "title": "σελίδα στην Ακαδημία-εδυ",
+          "url": "https://independent.academia.edu/LamprosKallenosF",
+          "enabled": true
+        }
+      ]
     }
   ]
 }
