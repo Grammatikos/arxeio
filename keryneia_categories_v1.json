@@ -17,7 +17,14 @@
       "name": "Μαθηματικά",
       "enabled": true,
       "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-ouhftp9",
+          "title": "Paul Erdos",
+          "url": "https://keryneia.blogspot.com/2023/09/paul-erdos.html",
+          "enabled": true
+        }
+      ]
     },
     {
       "id": "eoka",
