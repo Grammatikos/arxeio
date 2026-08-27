@@ -10,7 +10,26 @@
       "name": "Ειδικές δημοσιεύσεις",
       "enabled": true,
       "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-2thp4q1",
+          "title": "Αξηνόστραφες ιστορίες",
+          "url": "https://keryneia.blogspot.com/2009/06/blog-post.html",
+          "enabled": true
+        },
+        {
+          "id": "p-b8z9rom",
+          "title": "Τα χωριά της Κύπρου",
+          "url": "https://keryneia.blogspot.com/2009/07/blog-post_5912.html",
+          "enabled": true
+        },
+        {
+          "id": "p-2zroo1l",
+          "title": "Ανθολογία Αθηναϊκής χυδαιότητας",
+          "url": "https://keryneia.blogspot.com/2007/12/blog-post_19.html",
+          "enabled": true
+        }
+      ]
     },
     {
       "id": "math",
@@ -19,9 +38,49 @@
       "children": [],
       "posts": [
         {
-          "id": "p-ouhftp9",
+          "id": "p-w956pdi",
+          "title": "Πλέοντας με το κύμα",
+          "url": "https://keryneia.blogspot.com/2021/11/blog-post_14.html",
+          "enabled": true
+        },
+        {
+          "id": "p-57xy2wg",
           "title": "Paul Erdos",
           "url": "https://keryneia.blogspot.com/2023/09/paul-erdos.html",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "c-zmy12y2",
+      "name": "τους γραμματικούς",
+      "enabled": true,
+      "children": [],
+      "posts": [
+        {
+          "id": "p-fu8ys7a",
+          "title": "Η μάχη της Σουβάλλας έγινε σε τόπο αρχαίο",
+          "url": "https://keryneia.blogspot.com/2020/05/blog-post_22.html",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "c-km1gn1v",
+      "name": "Σημερινές εξελίξεις",
+      "enabled": true,
+      "children": [],
+      "posts": [
+        {
+          "id": "p-924n317",
+          "title": "Ο Χριστοδουλίδης καταρρίπτει οριστικά και το Σχέδιο Ανάν",
+          "url": "https://keryneia.blogspot.com/2026/04/blog-post.html",
+          "enabled": true
+        },
+        {
+          "id": "p-ks2ihi3",
+          "title": "Εξαιρετικό το κάλεσμα στη τουρκ΄λια για συνομιλίες",
+          "url": "https://keryneia.blogspot.com/2025/11/blog-post_27.html",
           "enabled": true
         }
       ]
@@ -31,14 +90,68 @@
       "name": "Αγώνας ΕΟΚΑ",
       "enabled": true,
       "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-dpazk6w",
+          "title": "Σκέψεις των βρετανών για Ένωση το 1919",
+          "url": "https://keryneia.blogspot.com/2026/04/1919.html",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "c-rpcxaa1",
+      "name": "Κουρδιστάν",
+      "enabled": true,
+      "children": [],
+      "posts": [
+        {
+          "id": "p-hp15lvt",
+          "title": "Η πολιτική του Κουρδικού κινήματος",
+          "url": "https://keryneia.blogspot.com/2025/07/httpsindependent.html",
+          "enabled": true
+        },
+        {
+          "id": "p-n6790ky",
+          "title": "Αφρίν - Κερύνεια - Ελευθερία!!",
+          "url": "https://keryneia.blogspot.com/2019/10/blog-post.html",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "c-onaa1w5",
+      "name": "Παλαιστίνη",
+      "enabled": true,
+      "children": [],
+      "posts": [
+        {
+          "id": "p-bxs0f8a",
+          "title": "Αποκεφαλισμένα μωρά;",
+          "url": "https://keryneia.blogspot.com/2023/10/blog-post.html",
+          "enabled": true
+        },
+        {
+          "id": "p-wbimiws",
+          "title": "Να κάνουν αυτοκριτική οι τυφλοί του σιωνισμού",
+          "url": "https://keryneia.blogspot.com/2024/12/blog-post.html",
+          "enabled": true
+        }
+      ]
     },
     {
       "id": "modern-mythology",
       "name": "Σημερινή μυθολογία",
       "enabled": true,
       "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-w5of335",
+          "title": "Οι παραπλανημένοι του αφθώδους πυρετού",
+          "url": "https://keryneia.blogspot.com/2026/04/blog-post_26.html",
+          "enabled": true
+        }
+      ]
     },
     {
       "id": "antiquity-christianity",
@@ -52,43 +165,91 @@
       "name": "Βιβλικές σπουδές",
       "enabled": true,
       "children": [],
-      "posts": []
-    },
-    {
-      "id": "xorkogyrazontas",
-      "name": "Χωρκογυρίζοντας",
-      "enabled": true,
-      "children": [],
-      "posts": []
-    },
-    {
-      "id": "annan-plan",
-      "name": "Γιατί είπαμε Όχι στο Σχέδιο Ανάν",
-      "enabled": true,
-      "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-d92ww01",
+          "title": "Εισαγωγή στις Βιβλικές σπουδές",
+          "url": "https://keryneia.blogspot.com/2023/05/blog-post_23.html",
+          "enabled": true
+        }
+      ]
     },
     {
       "id": "eu-acquis-bizonal",
       "name": "Ευρ κεκτημένο και διζωνική",
       "enabled": true,
       "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-80rukqk",
+          "title": "Το Ευρ κεκτημένο δεν εμποδίζει το άπαρτχαϊντ της διζωνικής",
+          "url": "https://keryneia.blogspot.com/2015/07/blog-post_51.html",
+          "enabled": true
+        },
+        {
+          "id": "p-qo6xh4r",
+          "title": "Απελευθέρωση!! Όχι κοινοτικό κεκτημένο!!",
+          "url": "https://keryneia.blogspot.com/2026/05/blog-post.html",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "annan-plan",
+      "name": "Γιατί είπαμε Όχι στο Σχέδιο Ανάν",
+      "enabled": true,
+      "children": [],
+      "posts": [
+        {
+          "id": "p-kpd1caq",
+          "title": "Γιατί είπαμε ΟΧΙ στο Σχέδιο Ανάν",
+          "url": "https://keryneia.blogspot.com/2004/08/blog-post.html",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "xorkogyrazontas",
+      "name": "Χωρκογυρίζοντας",
+      "enabled": true,
+      "children": [],
+      "posts": [
+        {
+          "id": "p-0lwgfab",
+          "title": "Χωρκογυρίζοντας",
+          "url": "https://keryneia.blogspot.com/2021/11/blog-post_19.html",
+          "enabled": true
+        }
+      ]
     },
     {
       "id": "contents-dec-2021",
-      "name": "Περιεχόμενα Δεκ 2021",
+      "name": "Περιεχόμενα έως ΔΝοε 2017",
       "enabled": true,
       "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-tvv321x",
+          "title": "Περιεχόμενα έως Νοε 2017",
+          "url": "https://keryneia.blogspot.com/2017/12/blog-post_9.html",
+          "enabled": true
+        }
+      ]
     },
     {
       "id": "contact",
-      "name": "επικοινωνία",
+      "name": "Επικοινωνία",
       "enabled": true,
       "href": "/p/epikoinonia.html",
       "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-fcm0c1d",
+          "title": "Επικοινωνία με το θηρίο",
+          "url": "https://keryneia.blogspot.com/2007/06/blog-post_01.html",
+          "enabled": true
+        }
+      ]
     },
     {
       "id": "academy",
