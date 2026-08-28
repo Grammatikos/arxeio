@@ -2,7 +2,8 @@
   "version": 1,
   "settings": {
     "categoryMenuMaxTitleLines": 4,
-    "recentViewsThreshold": 2
+    "recentViewsThreshold": 2,
+    "blogDescription": "Για την απελευθέρωση της Κύπρου. Για την επιστροφή στην Κερύνεια, την Πόλη και την Μικρασία."
   },
   "categories": [
     {
@@ -60,6 +61,12 @@
           "title": "Τα όμοια τοις ομοίοις",
           "url": "https://keryneia.blogspot.com/2022/06/blog-post.html",
           "enabled": true
+        },
+        {
+          "id": "p-bihsrqw",
+          "title": "Ένα δαιμόνιο του Ραμάνουτζαν",
+          "url": "https://keryneia.blogspot.com/2023/09/blog-post_19.html",
+          "enabled": true
         }
       ]
     },
@@ -85,6 +92,12 @@
           "id": "p-3qt6po1",
           "title": "Η γεωμετρία της συμπεριφοράς",
           "url": "https://keryneia.blogspot.com/2021/11/blog-post.html",
+          "enabled": true
+        },
+        {
+          "id": "p-wupkcw5",
+          "title": "Δείγμα «χώματος» από ένα αστεροειδή",
+          "url": "https://keryneia.blogspot.com/2023/09/blog-post_23.html",
           "enabled": true
         }
       ]
@@ -123,6 +136,18 @@
           "id": "p-s2a9ciw",
           "title": "Ο Αίσωπος στο περιβόλι",
           "url": "https://keryneia.blogspot.com/2021/05/blog-post.html",
+          "enabled": true
+        },
+        {
+          "id": "p-gtfm24n",
+          "title": "Φέρελπις νέος συγκλητικός",
+          "url": "https://keryneia.blogspot.com/2023/10/blog-post_19.html",
+          "enabled": true
+        },
+        {
+          "id": "p-qub1ht4",
+          "title": "Μπαμπινιώτη «Λεξικό»",
+          "url": "https://keryneia.blogspot.com/2023/09/blog-post_15.html",
           "enabled": true
         }
       ]
@@ -254,6 +279,18 @@
           "title": "Η προπαγάνδα των φασιστοσιωνιστών",
           "url": "https://keryneia.blogspot.com/2025/02/blog-post.html",
           "enabled": true
+        },
+        {
+          "id": "p-6j4huns",
+          "title": "Το ράδιο λέει ότι φταίνε",
+          "url": "https://keryneia.blogspot.com/2023/10/blog-post_87.html",
+          "enabled": true
+        },
+        {
+          "id": "p-chte4if",
+          "title": "πρόσφυγες μέσα στην προσφυγιά",
+          "url": "https://keryneia.blogspot.com/2023/10/blog-post_14.html",
+          "enabled": true
         }
       ]
     },
@@ -297,6 +334,12 @@
           "id": "p-l73vpqi",
           "title": "Φάνηκε νέος καλλικάντζαρος!",
           "url": "https://keryneia.blogspot.com/2021/02/blog-post_21.html",
+          "enabled": true
+        },
+        {
+          "id": "p-yn5r6tv",
+          "title": "Οι νέες ταυτότητες και οι κακοί μαθητές",
+          "url": "https://keryneia.blogspot.com/2023/09/blog-post.html",
           "enabled": true
         }
       ]
