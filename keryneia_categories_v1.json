@@ -58,6 +58,13 @@
       ]
     },
     {
+      "id": "c-huqdj5y",
+      "name": "Επιστήμη",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
       "id": "c-zmy12y2",
       "name": "τους γραμματικούς",
       "enabled": true,
@@ -130,6 +137,13 @@
       ]
     },
     {
+      "id": "c-xoburjm",
+      "name": "Ιστορικά",
+      "enabled": true,
+      "children": [],
+      "posts": []
+    },
+    {
       "id": "c-rpcxaa1",
       "name": "Κουρδιστάν",
       "enabled": true,
@@ -188,6 +202,12 @@
       "children": [],
       "posts": [
         {
+          "id": "p-7wirnio",
+          "title": "Η ομιλία του Μακάριου στα ΗΕ στις 19-7-1974",
+          "url": "https://keryneia.blogspot.com/2024/09/19-7-1974.html",
+          "enabled": true
+        },
+        {
           "id": "p-w5of335",
           "title": "Οι παραπλανημένοι του αφθώδους πυρετού",
           "url": "https://keryneia.blogspot.com/2026/04/blog-post_26.html",
@@ -197,12 +217,6 @@
           "id": "p-pz7kbkx",
           "title": "Όπου λαλούν πολλοί προφήτες... α'",
           "url": "https://keryneia.blogspot.com/2025/04/blog-post_30.html",
-          "enabled": true
-        },
-        {
-          "id": "p-7wirnio",
-          "title": "Η ομιλία του Μακάριου στα ΗΕ στις 19-7-1974",
-          "url": "https://keryneia.blogspot.com/2024/09/19-7-1974.html",
           "enabled": true
         }
       ]
