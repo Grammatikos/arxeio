@@ -48,6 +48,12 @@
           "title": "Paul Erdos",
           "url": "https://keryneia.blogspot.com/2023/09/paul-erdos.html",
           "enabled": true
+        },
+        {
+          "id": "p-domds2i",
+          "title": "Με το ένα πόδι στο πεζοδρόμιο και το άλλο στο δρόμο",
+          "url": "https://keryneia.blogspot.com/2024/05/blog-post.html",
+          "enabled": true
         }
       ]
     },
@@ -61,6 +67,12 @@
           "id": "p-fu8ys7a",
           "title": "Η μάχη της Σουβάλλας έγινε σε τόπο αρχαίο",
           "url": "https://keryneia.blogspot.com/2020/05/blog-post_22.html",
+          "enabled": true
+        },
+        {
+          "id": "p-qil3qhk",
+          "title": "Η κατοχή ως ποίηση",
+          "url": "https://keryneia.blogspot.com/2025/04/blog-post.html",
           "enabled": true
         }
       ]
@@ -93,6 +105,12 @@
           "id": "p-ptyednw",
           "title": "Λόγοι για την ειρήνη",
           "url": "https://keryneia.blogspot.com/2026/03/blog-post_80.html",
+          "enabled": true
+        },
+        {
+          "id": "p-xvmbom2",
+          "title": "Δυο άρθρα για την τουρκική εισβολή",
+          "url": "https://keryneia.blogspot.com/2025/02/50.html",
           "enabled": true
         }
       ]
@@ -128,6 +146,12 @@
           "title": "Αφρίν - Κερύνεια - Ελευθερία!!",
           "url": "https://keryneia.blogspot.com/2019/10/blog-post.html",
           "enabled": true
+        },
+        {
+          "id": "p-9wzufw4",
+          "title": "Γυναίκα, ζωή, ελευθερία",
+          "url": "https://keryneia.blogspot.com/2024/11/blog-post.html",
+          "enabled": true
         }
       ]
     },
@@ -148,6 +172,12 @@
           "title": "Να κάνουν αυτοκριτική οι τυφλοί του σιωνισμού",
           "url": "https://keryneia.blogspot.com/2024/12/blog-post.html",
           "enabled": true
+        },
+        {
+          "id": "p-8unbcp7",
+          "title": "Η προπαγάνδα των φασιστοσιωνιστών",
+          "url": "https://keryneia.blogspot.com/2025/02/blog-post.html",
+          "enabled": true
         }
       ]
     },
@@ -161,6 +191,18 @@
           "id": "p-w5of335",
           "title": "Οι παραπλανημένοι του αφθώδους πυρετού",
           "url": "https://keryneia.blogspot.com/2026/04/blog-post_26.html",
+          "enabled": true
+        },
+        {
+          "id": "p-pz7kbkx",
+          "title": "Όπου λαλούν πολλοί προφήτες... α'",
+          "url": "https://keryneia.blogspot.com/2025/04/blog-post_30.html",
+          "enabled": true
+        },
+        {
+          "id": "p-7wirnio",
+          "title": "Η ομιλία του Μακάριου στα ΗΕ στις 19-7-1974",
+          "url": "https://keryneia.blogspot.com/2024/09/19-7-1974.html",
           "enabled": true
         }
       ]
