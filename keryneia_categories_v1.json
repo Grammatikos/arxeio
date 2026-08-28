@@ -54,6 +54,12 @@
           "title": "Με το ένα πόδι στο πεζοδρόμιο και το άλλο στο δρόμο",
           "url": "https://keryneia.blogspot.com/2024/05/blog-post.html",
           "enabled": true
+        },
+        {
+          "id": "p-qbssgos",
+          "title": "Τα όμοια τοις ομοίοις",
+          "url": "https://keryneia.blogspot.com/2022/06/blog-post.html",
+          "enabled": true
         }
       ]
     },
@@ -62,7 +68,26 @@
       "name": "Επιστήμη",
       "enabled": true,
       "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-m7kc977",
+          "title": "Συνεχής ενημέρωση για το τηλεσκόπιο Τζεημς Γουεμπ",
+          "url": "https://keryneia.blogspot.com/2021/12/blog-post_28.html",
+          "enabled": true
+        },
+        {
+          "id": "p-euityex",
+          "title": "Διαστημικό τηλεσκόπιο Τζέημς Γουέμπ",
+          "url": "https://keryneia.blogspot.com/2021/12/blog-post.html",
+          "enabled": true
+        },
+        {
+          "id": "p-3qt6po1",
+          "title": "Η γεωμετρία της συμπεριφοράς",
+          "url": "https://keryneia.blogspot.com/2021/11/blog-post.html",
+          "enabled": true
+        }
+      ]
     },
     {
       "id": "c-zmy12y2",
@@ -80,6 +105,24 @@
           "id": "p-qil3qhk",
           "title": "Η κατοχή ως ποίηση",
           "url": "https://keryneia.blogspot.com/2025/04/blog-post.html",
+          "enabled": true
+        },
+        {
+          "id": "p-5mw9kus",
+          "title": "Φαντασία και τέχνη",
+          "url": "https://keryneia.blogspot.com/2021/10/blog-post_30.html",
+          "enabled": true
+        },
+        {
+          "id": "p-bgq9t7v",
+          "title": "Εγγλέζος στα περίχωρα της Κύπρου το καλοκαίρι του 2021",
+          "url": "https://keryneia.blogspot.com/2021/10/2021.html",
+          "enabled": true
+        },
+        {
+          "id": "p-s2a9ciw",
+          "title": "Ο Αίσωπος στο περιβόλι",
+          "url": "https://keryneia.blogspot.com/2021/05/blog-post.html",
           "enabled": true
         }
       ]
@@ -133,6 +176,12 @@
           "title": "Σκέψεις των βρετανών για Ένωση το 1919",
           "url": "https://keryneia.blogspot.com/2026/04/1919.html",
           "enabled": true
+        },
+        {
+          "id": "p-5tjxo0w",
+          "title": "Η Ένωση και η παγκόσμια ειρήνη",
+          "url": "https://keryneia.blogspot.com/2021/10/blog-post.html",
+          "enabled": true
         }
       ]
     },
@@ -141,7 +190,20 @@
       "name": "Ιστορικά",
       "enabled": true,
       "children": [],
-      "posts": []
+      "posts": [
+        {
+          "id": "p-vrl93r1",
+          "title": "Η ΕΔΟΝ και το αλφαβητάρι με τον ήλιο",
+          "url": "https://keryneia.blogspot.com/2022/12/blog-post.html",
+          "enabled": true
+        },
+        {
+          "id": "p-ls2ai84",
+          "title": "Πώληση παιδιών σαν σκλάβους σε Άραβες στη Κύπρο του 1911 !!!",
+          "url": "https://keryneia.blogspot.com/2021/08/1911.html",
+          "enabled": true
+        }
+      ]
     },
     {
       "id": "c-rpcxaa1",
@@ -218,6 +280,24 @@
           "title": "Όπου λαλούν πολλοί προφήτες... α'",
           "url": "https://keryneia.blogspot.com/2025/04/blog-post_30.html",
           "enabled": true
+        },
+        {
+          "id": "p-zcdkahc",
+          "title": "Ο Αλεξ Τζοουνς πτώχευσε....",
+          "url": "https://keryneia.blogspot.com/2022/08/blog-post.html",
+          "enabled": true
+        },
+        {
+          "id": "p-isshwac",
+          "title": "Βρέθηκε ο αρχιλαφαζάνης των Κιου",
+          "url": "https://keryneia.blogspot.com/2021/02/blog-post.html",
+          "enabled": true
+        },
+        {
+          "id": "p-l73vpqi",
+          "title": "Φάνηκε νέος καλλικάντζαρος!",
+          "url": "https://keryneia.blogspot.com/2021/02/blog-post_21.html",
+          "enabled": true
         }
       ]
     },
@@ -238,6 +318,12 @@
           "id": "p-d92ww01",
           "title": "Εισαγωγή στις Βιβλικές σπουδές",
           "url": "https://keryneia.blogspot.com/2023/05/blog-post_23.html",
+          "enabled": true
+        },
+        {
+          "id": "p-ofwv3oq",
+          "title": "Receptions of the Bible in Byzantium",
+          "url": "https://keryneia.blogspot.com/2021/04/receptions-of-bible-in-byzantium-texts.html",
           "enabled": true
         }
       ]
