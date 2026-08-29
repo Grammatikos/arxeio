@@ -345,15 +345,8 @@
       ]
     },
     {
-      "id": "antiquity-christianity",
-      "name": "Από την αρχαιότητα στον Χριστιανισμό",
-      "enabled": true,
-      "children": [],
-      "posts": []
-    },
-    {
       "id": "biblical-studies",
-      "name": "Βιβλικές σπουδές",
+      "name": "Αρχαία ιστορία",
       "enabled": true,
       "children": [],
       "posts": [
