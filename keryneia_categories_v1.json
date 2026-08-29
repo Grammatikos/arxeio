@@ -295,6 +295,40 @@
       ]
     },
     {
+      "id": "eu-acquis-bizonal",
+      "name": "Ευρ κεκτημένο και διζωνική",
+      "enabled": true,
+      "children": [],
+      "posts": [
+        {
+          "id": "p-80rukqk",
+          "title": "Το Ευρ κεκτημένο δεν εμποδίζει το άπαρτχαϊντ της διζωνικής",
+          "url": "https://keryneia.blogspot.com/2015/07/blog-post_51.html",
+          "enabled": true
+        },
+        {
+          "id": "p-qo6xh4r",
+          "title": "Απελευθέρωση!! Όχι κοινοτικό κεκτημένο!!",
+          "url": "https://keryneia.blogspot.com/2026/05/blog-post.html",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "annan-plan",
+      "name": "Γιατί είπαμε Όχι στο Σχέδιο Ανάν",
+      "enabled": true,
+      "children": [],
+      "posts": [
+        {
+          "id": "p-kpd1caq",
+          "title": "Γιατί είπαμε ΟΧΙ στο Σχέδιο Ανάν",
+          "url": "https://keryneia.blogspot.com/2004/08/blog-post.html",
+          "enabled": true
+        }
+      ]
+    },
+    {
       "id": "modern-mythology",
       "name": "Σημερινή μυθολογία",
       "enabled": true,
@@ -360,40 +394,6 @@
           "id": "p-ofwv3oq",
           "title": "Receptions of the Bible in Byzantium",
           "url": "https://keryneia.blogspot.com/2021/04/receptions-of-bible-in-byzantium-texts.html",
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "eu-acquis-bizonal",
-      "name": "Ευρ κεκτημένο και διζωνική",
-      "enabled": true,
-      "children": [],
-      "posts": [
-        {
-          "id": "p-80rukqk",
-          "title": "Το Ευρ κεκτημένο δεν εμποδίζει το άπαρτχαϊντ της διζωνικής",
-          "url": "https://keryneia.blogspot.com/2015/07/blog-post_51.html",
-          "enabled": true
-        },
-        {
-          "id": "p-qo6xh4r",
-          "title": "Απελευθέρωση!! Όχι κοινοτικό κεκτημένο!!",
-          "url": "https://keryneia.blogspot.com/2026/05/blog-post.html",
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "annan-plan",
-      "name": "Γιατί είπαμε Όχι στο Σχέδιο Ανάν",
-      "enabled": true,
-      "children": [],
-      "posts": [
-        {
-          "id": "p-kpd1caq",
-          "title": "Γιατί είπαμε ΟΧΙ στο Σχέδιο Ανάν",
-          "url": "https://keryneia.blogspot.com/2004/08/blog-post.html",
           "enabled": true
         }
       ]
