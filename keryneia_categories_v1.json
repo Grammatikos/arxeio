@@ -145,12 +145,25 @@
           "enabled": true
         },
         {
+          "id": "p-rr1to4c",
+          "title": "δυο ποιημάτια",
+          "url": "https://keryneia.blogspot.com/2026/07/blog-post.html",
+          "enabled": true
+        },
+        {
           "id": "p-qub1ht4",
           "title": "Μπαμπινιώτη «Λεξικό»",
           "url": "https://keryneia.blogspot.com/2023/09/blog-post_15.html",
           "enabled": true
         }
       ]
+    },
+    {
+      "id": "c-agyyiu9",
+      "name": "«Θέλουμε ...λύση»",
+      "enabled": true,
+      "children": [],
+      "posts": []
     },
     {
       "id": "c-km1gn1v",
