@@ -210,12 +210,6 @@
       "children": [],
       "posts": [
         {
-          "id": "p-dpazk6w",
-          "title": "Σκέψεις των βρετανών για Ένωση το 1919",
-          "url": "https://keryneia.blogspot.com/2026/04/1919.html",
-          "enabled": true
-        },
-        {
           "id": "p-5tjxo0w",
           "title": "Η Ένωση και η παγκόσμια ειρήνη",
           "url": "https://keryneia.blogspot.com/2021/10/blog-post.html",
@@ -230,6 +224,12 @@
       "children": [],
       "posts": [
         {
+          "id": "p-5hjze8v",
+          "title": "Σκέψεις των βρεττανών για Ένωση το 1919",
+          "url": "https://keryneia.blogspot.com/2026/04/1919.html",
+          "enabled": true
+        },
+        {
           "id": "p-vrl93r1",
           "title": "Η ΕΔΟΝ και το αλφαβητάρι με τον ήλιο",
           "url": "https://keryneia.blogspot.com/2022/12/blog-post.html",
@@ -239,12 +239,6 @@
           "id": "p-ls2ai84",
           "title": "Πώληση παιδιών σαν σκλάβους σε Άραβες στη Κύπρο του 1911 !!!",
           "url": "https://keryneia.blogspot.com/2021/08/1911.html",
-          "enabled": true
-        },
-        {
-          "id": "p-5hjze8v",
-          "title": "Σκέψεις των βρεττανών για Ένωση το 1919",
-          "url": "https://keryneia.blogspot.com/2026/04/1919.html",
           "enabled": true
         }
       ]
